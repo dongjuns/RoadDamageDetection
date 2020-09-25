@@ -10,3 +10,8 @@ maybe "YOLOv5", <https://github.com/ultralytics/yolov5>
 
 ## Detail information
 <https://dongjuns.github.io/detection/RoadDamageDetector/>
+
+
+
+conda create -n GRDD python=3.8 -y
+conda activate GRDD
